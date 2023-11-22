@@ -1,5 +1,5 @@
 "use strict";
-//задание номер 2
+
 
 function getShippingMessage(country, price, deliveryFee) { 
     const totalPrice = price + deliveryFee;
